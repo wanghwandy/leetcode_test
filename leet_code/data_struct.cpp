@@ -1,4 +1,5 @@
 #include "data_struct.h"
+
 /*构造单链表*/
 void struct_soulation::create_link_list(struct ListNode **l_node,vector<int> &v_data){
 	struct ListNode *p_node,*q_node;
