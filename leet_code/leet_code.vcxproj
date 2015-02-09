@@ -79,10 +79,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\Users\hongwei\Desktop\leetcode.h" />
+    <ClInclude Include="data_struct.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\Users\hongwei\Desktop\leetcode.cpp" />
     <ClCompile Include="..\..\..\Users\hongwei\Desktop\main.cpp" />
+    <ClCompile Include="data_struct.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
